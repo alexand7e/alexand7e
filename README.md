@@ -106,8 +106,6 @@ Data Engineer e Full-Stack Developer com formação em **Economia** e **Ciência
 </tr>
 </table>
 
-![Snake animation](https://github.com/alexand7e/alexand7e/blob/main/github-contribution-grid-snake.svg)
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=60&section=footer"/>
 </div>
