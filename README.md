@@ -19,7 +19,7 @@
 
 ## About
 
-Data Engineer e Full-Stack Developer com formação em **Economia** e **Ciência da Computação**. Especializado em construção de pipelines de dados, arquiteturas escaláveis e sistemas de automação, com experiência em conectar estratégia de negócios com implementação técnica.
+Data Engineer e Full-Stack Developer com formação em Ciências Econômicas e informática, e pós-graduando em Dados e IA. Especializado em construção de pipelines de dados, arquiteturas escaláveis e sistemas de automação, com experiência em conectar estratégia de negócios com implementação técnica.
 
 **Atuação Atual:**
 - 🏛️ **Manager na SIA-PI** (Secretaria de Inteligência Artificial) — Liderança técnica de iniciativas de IA e estratégia de dados para inovação no setor público
